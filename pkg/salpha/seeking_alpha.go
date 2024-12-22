@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/news"
+	"github.com/koushik0329/opg-analysis/internal/news"
 )
 
 // Constants for API endpoints and headers

@@ -1,3 +1,3 @@
-module github.com/codebuilds-dev/opg-analysis
+module github.com/koushik0329/opg-analysis
 
 go 1.21.5

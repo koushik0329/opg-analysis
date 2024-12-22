@@ -9,7 +9,7 @@ import (
 	"slices"
 	"strconv"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/raw"
+	"github.com/koushik0329/opg-analysis/internal/raw"
 )
 
 // columns represents a slice of strings, where each string represents a column in the CSV file.

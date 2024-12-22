@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/news"
-	"github.com/codebuilds-dev/opg-analysis/internal/pos"
-	"github.com/codebuilds-dev/opg-analysis/internal/raw"
-	"github.com/codebuilds-dev/opg-analysis/internal/trade"
+	"github.com/koushik0329/opg-analysis/internal/news"
+	"github.com/koushik0329/opg-analysis/internal/pos"
+	"github.com/koushik0329/opg-analysis/internal/raw"
+	"github.com/koushik0329/opg-analysis/internal/trade"
 )
 
 func Run(ldr raw.Loader, f raw.Filterer, c pos.Calculator, fet news.Fetcher, del trade.Deliverer) error {

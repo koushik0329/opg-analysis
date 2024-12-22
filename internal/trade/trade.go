@@ -3,8 +3,8 @@
 package trade
 
 import (
-	"github.com/codebuilds-dev/opg-analysis/internal/news"
-	"github.com/codebuilds-dev/opg-analysis/internal/pos"
+	"github.com/koushik0329/opg-analysis/internal/news"
+	"github.com/koushik0329/opg-analysis/internal/pos"
 )
 
 // Selection represents a trade selection, including the ticker symbol,

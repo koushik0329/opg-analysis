@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/trade"
+	"github.com/koushik0329/opg-analysis/internal/trade"
 )
 
 // deliverer is a struct that represents a JSON deliverer.

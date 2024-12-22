@@ -3,7 +3,7 @@ package process
 import (
 	"math"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/pos"
+	"github.com/koushik0329/opg-analysis/internal/pos"
 )
 
 type calculator struct {

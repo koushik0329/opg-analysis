@@ -5,15 +5,15 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/codebuilds-dev/opg-analysis/cmd"
-	"github.com/codebuilds-dev/opg-analysis/internal/news"
-	"github.com/codebuilds-dev/opg-analysis/internal/pos"
-	"github.com/codebuilds-dev/opg-analysis/internal/raw"
-	"github.com/codebuilds-dev/opg-analysis/internal/trade"
-	"github.com/codebuilds-dev/opg-analysis/pkg/csv"
-	"github.com/codebuilds-dev/opg-analysis/pkg/json"
-	"github.com/codebuilds-dev/opg-analysis/pkg/process"
-	"github.com/codebuilds-dev/opg-analysis/pkg/salpha"
+	"github.com/koushik0329/opg-analysis/cmd"
+	"github.com/koushik0329/opg-analysis/internal/news"
+	"github.com/koushik0329/opg-analysis/internal/pos"
+	"github.com/koushik0329/opg-analysis/internal/raw"
+	"github.com/koushik0329/opg-analysis/internal/trade"
+	"github.com/koushik0329/opg-analysis/pkg/csv"
+	"github.com/koushik0329/opg-analysis/pkg/json"
+	"github.com/koushik0329/opg-analysis/pkg/process"
+	"github.com/koushik0329/opg-analysis/pkg/salpha"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"math"
 	"slices"
 
-	"github.com/codebuilds-dev/opg-analysis/internal/raw"
+	"github.com/koushik0329/opg-analysis/internal/raw"
 )
 
 // filterer is a struct that used to filter raw stocks.
